@@ -1,1 +1,5 @@
 RNN/.ipynb_checkpoints/
+*.dat
+*.csv
+BoltzmannMachine/ml-1m
+BoltzmannMachine/ml-100k
