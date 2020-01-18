@@ -1,5 +1,7 @@
 **/.ipynb_checkpoints/
 *.dat
 *.csv
+*.zip
+*.pdf
 BoltzmannMachine/ml-1m
 BoltzmannMachine/ml-100k
