@@ -85,4 +85,3 @@ if __name__ == '__main__':
     print("[INFO] cleaning up...")
     writer.release()
     vs.release()
-
